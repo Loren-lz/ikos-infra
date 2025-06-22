@@ -1,0 +1,41 @@
+# 全局代码所有者
+* @Loren-lz
+
+# 前端相关文件
+frontend/ @Loren-lz
+*.astro @Loren-lz
+*.tsx @Loren-lz
+*.jsx @Loren-lz
+
+# 后端相关文件
+backend/ @Loren-lz
+*.py @Loren-lz
+*.java @Loren-lz
+*.kt @Loren-lz
+
+# 基础设施相关文件
+infrastructure/ @Loren-lz
+docker-compose.yml @Loren-lz
+Dockerfile* @Loren-lz
+*.yaml @Loren-lz
+*.yml @Loren-lz
+
+# 安全相关文件
+.github/SECURITY.md @Loren-lz
+.github/workflows/security-scan.yml @Loren-lz
+security/ @Loren-lz
+
+# 文档相关文件
+docs/ @Loren-lz
+README.md @Loren-lz
+*.md @Loren-lz
+
+# 测试相关文件
+tests/ @Loren-lz
+*.test.* @Loren-lz
+*.spec.* @Loren-lz
+
+# 脚本相关文件
+scripts/ @Loren-lz
+*.sh @Loren-lz
+*.js @Loren-lz
